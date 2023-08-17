@@ -1,1 +1,1 @@
-# AWS-Lambda-Mini-Project
+# AWS-Lambda-Data-Mini-Project
