@@ -1,0 +1,15 @@
+[api]
+api_url="https://virtserver.swaggerhub.com/wcd_de_lab/top10/1.0.0/add"
+
+[s3]
+bucket='lambda-mini-project-bucket'
+folder='input'
+
+[db]
+host='c3qwwmufncru.us-east-1.rds.amazonaws.com'
+port=3306
+database='wcd-lambda-mini-project-db'
+schema='superstore'
+
+[run]
+py_script="run.py"
